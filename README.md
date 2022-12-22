@@ -11,3 +11,4 @@ In this tutorial, we explore 6 subtasks. The subtasks are as follows:
 3.Exploring Jieba
 4. Understanding a basic text processing pipeline
 5. Homework task to analyse the presedential address of a U.S president
+![image](https://user-images.githubusercontent.com/95512985/209110259-6c15cae6-df4f-440a-a345-a4958ff6c1fe.png)
