@@ -4,7 +4,7 @@ This repository contains the tutorials for NLP CSE4022 for winter sem 2022-23 as
 ## 16-12-2022- Tutorial 01
 In this tutorial we explored a few aspects of the NLTK package such as the brown corpus and inaugural corpus
 
-## 22-12-2022
+## 22-12-2022- Tutorial 02
 In this tutorial, we explore 6 subtasks. The subtasks are as follows:
 1.Frequency distribution: We analyse the text using the frequency distribution of the words
 2.Conditional Frequency distribution: We add additional conditions to this frequency distribution
