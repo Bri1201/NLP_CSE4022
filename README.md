@@ -13,6 +13,6 @@ In this tutorial, we explore 6 subtasks. The subtasks are as follows:
 5. Homework task to analyse the presedential address of a U.S president
 ![image](https://user-images.githubusercontent.com/95512985/209110259-6c15cae6-df4f-440a-a345-a4958ff6c1fe.png)
 
-## 12-01-2023- Tutorial 03
+## 13-01-2023- Tutorial 03
 In this tutorial we classified names into male and female names using the Naive Bayes Classifier
 We then explored nltk's tweet tokenizer, followed by an exploration of COCA
