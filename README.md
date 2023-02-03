@@ -16,3 +16,9 @@ In this tutorial, we explore 6 subtasks. The subtasks are as follows:
 ## 13-01-2023- Tutorial 03
 In this tutorial we classified names into male and female names using the Naive Bayes Classifier
 We then explored nltk's tweet tokenizer, followed by an exploration of COCA
+
+## 03-02-2023- Tutorial 04
+In this tutorial we explored webscraping, stemming and lemmatization
+Stemmers explored: Porter stemmer, Lancaster stemmer, Snowball stemmer, Regex
+
+
