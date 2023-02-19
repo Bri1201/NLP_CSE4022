@@ -26,4 +26,5 @@ In this tutorial we explored cosine similarity and vectorization
 
 ## Bonus Task
 In this task we compared articles written by Laxmi Sankaran to see if she is worthy of being hired.
+![image](https://user-images.githubusercontent.com/95512985/219976075-dab7e7a1-516c-4b76-af90-82ccbd972e5e.png)
 
