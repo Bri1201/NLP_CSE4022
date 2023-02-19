@@ -21,4 +21,9 @@ We then explored nltk's tweet tokenizer, followed by an exploration of COCA
 In this tutorial we explored webscraping, stemming and lemmatization
 Stemmers explored: Porter stemmer, Lancaster stemmer, Snowball stemmer, Regex
 
+## 18-02-2023 Tutorial 05
+In this tutorial we explored cosine similarity and vectorization
+
+## Bonus Task
+In this task we compared articles written by Laxmi Sankaran to see if she is worthy of being hired.
 
